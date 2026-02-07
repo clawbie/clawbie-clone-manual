@@ -4,6 +4,10 @@
 
 ## 任务 → 阅读路径 → 工具
 
+### Z. 维护这份手册（新增技能如何写入）
+- 读：`docs/90-maintenance.md`
+- 输出：更新对应模块 + `SUMMARY.md` + `CHANGELOG.md`
+
 ### A. 写文档 / 产出可共享材料
 - 读：`docs/02-tools-core.md`（文件与本地执行） + `docs/01-workflow.md`
 - 工具：`read` / `write` / `edit`，必要时 `exec`
