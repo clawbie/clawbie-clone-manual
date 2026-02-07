@@ -15,6 +15,7 @@
 - Token 自审计：`docs/07-token-audit.md`
 
 ## 目录索引
+- `CONTRIBUTING.md`：协作指南（如何提交修改并保持全仓库协调）
 - `docs/90-maintenance.md`：维护手册（如何把新技能沉淀进仓库）
 - `SUMMARY.md`：按“任务 → 该读哪里 → 用哪些工具”做路由
 - `CHANGELOG.md`：更新记录（方便分身只学习新增内容）
