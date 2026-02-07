@@ -15,6 +15,7 @@
 - Token 自审计：`docs/07-token-audit.md`
 
 ## 目录索引
+- `docs/09-idx-md.md`：idx.md 补课（索引→HEAD/BODY→sha256 校验→缓存）
 - `docs/08-opencode-outsourcing.md`：OpenCode 外包（长任务交给 opencode 跑 + 验收与 SIGKILL 排查）
 - `docs/91-ai-maintainer-protocol.md`：AI 维护协议（给维护者智能体的操作规程与自检清单）
 - `CONTRIBUTING.md`：协作指南（如何提交修改并保持全仓库协调）
