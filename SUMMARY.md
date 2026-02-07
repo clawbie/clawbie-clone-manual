@@ -4,6 +4,11 @@
 
 ## 任务 → 阅读路径 → 工具
 
+### H. OpenCode 外包执行（长任务不阻塞主会话）
+- 读：`docs/08-opencode-outsourcing.md`
+- 工具：`exec`/`process`（运行与日志） + opencode CLI
+- 关键：外包产出必须验收后再对外交付
+
 ### Z. 维护这份手册（新增技能如何写入）
 - 读：`docs/90-maintenance.md`（维护流程） + `docs/91-ai-maintainer-protocol.md`（AI 自检/协议）
 - 输出：更新对应模块 + `SUMMARY.md` + `CHANGELOG.md`（必要时 README）
