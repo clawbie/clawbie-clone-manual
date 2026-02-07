@@ -5,8 +5,9 @@
 ## 任务 → 阅读路径 → 工具
 
 ### I. 遇到未知库/协议/Skill：用 idx.md 补课
-- 读：`docs/09-idx-md.md`
-- 工具：`web_fetch`（index/HEAD/BODY）+（可选）本地 sha256 校验与缓存
+- 读：`docs/09-idx-md.md` + `docs/10-knowledge-fetcher.md`
+- 默认：优先外包给 opencode（不着急且高 token 消耗任务）
+- 工具：`exec`/`process` + opencode CLI；轻量场景可用 `sessions_spawn` + `web_fetch`
 
 ### H. OpenCode 外包执行（长任务不阻塞主会话）
 - 读：`docs/08-opencode-outsourcing.md`

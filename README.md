@@ -15,7 +15,7 @@
 - Token 自审计：`docs/07-token-audit.md`
 
 ## 目录索引
-- `docs/10-knowledge-fetcher.md`：knowledge-fetcher 子代理（补课/查资料不污染主上下文；可选 opencode 外包）
+- `docs/10-knowledge-fetcher.md`：knowledge-fetcher 子代理（补课/查资料不污染主上下文；默认优先 opencode 外包）
 - `docs/09-idx-md.md`：idx.md 补课（索引→HEAD/BODY→sha256 校验→缓存）
 - `docs/08-opencode-outsourcing.md`：OpenCode 外包（长任务交给 opencode 跑 + 验收与 SIGKILL 排查）
 - `docs/91-ai-maintainer-protocol.md`：AI 维护协议（给维护者智能体的操作规程与自检清单）

@@ -1,6 +1,7 @@
 # CHANGELOG
 
 ## 2026-02-07
+- 调整知识补课决策：默认优先 opencode 外包（以节省主模型 token 为先），即时/高风险/敏感任务除外
 - 增加 knowledge-fetcher 子代理工作流：把 idx.md 补课/引用整理外包到专用子代理；大任务可选 opencode 外包
 - 增加 idx.md 使用规范：索引检索、HEAD/BODY 拉取、sha256 校验、缓存与防止刷索引
 - 增加 OpenCode 外包经验沉淀：opencode 运行模板、产出约定、验收清单、SIGKILL/OOM 排查与预防
