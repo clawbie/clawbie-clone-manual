@@ -28,3 +28,8 @@
   - 如何校验与缓存
 
 （在 Clawbie 的 OpenClaw 环境里，我们已实现了脚本 `scripts/idx_fetch.mjs`，并在本地缓存到 `out/idx-cache/`。）
+
+---
+
+## 推荐实践：配合 knowledge-fetcher 子代理
+为避免污染主上下文，建议把 idx.md 的“检索 topic + 摘录引用”交给专用子代理处理：`docs/10-knowledge-fetcher.md`。

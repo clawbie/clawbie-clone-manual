@@ -21,3 +21,8 @@
 
 ## 另一个外包形态：在本机用 OpenCode（opencode）跑长任务
 当任务需要长时间检索/写作，且希望与主会话隔离时，可参考：`docs/08-opencode-outsourcing.md`。
+
+---
+
+## 专用子代理模式：knowledge-fetcher（补课/引用整理）
+当任务需要快速补课并带引用时，建议启用专用子代理流程：`docs/10-knowledge-fetcher.md`。
